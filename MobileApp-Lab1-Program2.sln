@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileApp-Lab1-Program2", "MobileApp-Lab1-Program2.csproj", "{148DB05E-67AD-4AC1-B142-20EFE0F23683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148DB05E-67AD-4AC1-B142-20EFE0F23683}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{148DB05E-67AD-4AC1-B142-20EFE0F23683}.Debug|anycpu.Build.0 = Debug|anycpu
+		{148DB05E-67AD-4AC1-B142-20EFE0F23683}.Release|anycpu.ActiveCfg = Release|anycpu
+		{148DB05E-67AD-4AC1-B142-20EFE0F23683}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
